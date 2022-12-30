@@ -1,0 +1,23 @@
+.header{
+    background-color: aqua;
+    width: 500px;
+    height: 700px;
+    border-radius: 35px;
+    margin-left: 500px;
+}
+
+h2{
+    padding-left: 150px;
+    padding-top: 25px;
+}
+
+ul{
+    padding-left: 150px;
+}
+
+input{
+    padding-left: 150px;
+    border: none;
+    border-radius: 5px;
+}
+
